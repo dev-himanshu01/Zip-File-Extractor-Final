@@ -57,10 +57,16 @@ The app will start running locally on `http://127.0.0.1:5000/`.
 2. Click on the **"Choose File"** button to select the ZIP file you want to upload.
 3. Press the **"Upload and Extract"** button to upload and begin the extraction process.
 
+![image](https://github.com/user-attachments/assets/ae01639d-8846-47b9-bbf5-e424b76eee5d)
+
+
 ### **Step 2: View Progress**
 
 - A **progress bar** will appear to show the upload and extraction process in real time.
 - Once extraction is complete, a list of the extracted files will be displayed.
+
+![image](https://github.com/user-attachments/assets/97721701-ad70-4494-ae74-b29635bceac9)
+
 
 ### **Step 3: Download Extracted Files**
 
