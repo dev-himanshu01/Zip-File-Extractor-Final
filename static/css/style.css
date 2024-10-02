@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.progress {
+    margin-top: 20px;
+}
+
+.custom-file-label::after {
+    content: "Choose file";
+}
+
+.btn-custom {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    margin: 5px 0;
+    width: 100%;
+    transition: all 0.3s ease;
+}
+
+.btn-custom:hover {
+    background-color: #218838;
+    transform: scale(1.05);
+}
